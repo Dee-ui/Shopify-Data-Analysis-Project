@@ -4,7 +4,7 @@ Spotify Top 2000 Tracks Analysis (2000-2019) 🎵 This project analyzes Spotify�
 
 # 🎵 Spotify Top 2000 Tracks Analysis (2000-2019)
 Project Description
-This project analyzes Spotify’s top 2000 tracks from 2000 to 2019, focusing on musical attributes such as popularity, danceability, energy, tempo, and valence to uncover trends. By leveraging Power BI and Excel, this project provides visual insights into how these features impact song popularity over time.
+This project analyzes Spotify’s top 2000 tracks from 2000 to 2019, focusing on musical attributes such as popularity, danceability, energy, tempo, and valence to uncover trends. By leveraging Python, Power BI and Excel, this project provides visual insights into how these features impact song popularity over time.
 
 ## Methodology
 The data was sourced from publicly available Spotify statistics. The analysis was conducted using:
@@ -12,6 +12,8 @@ The data was sourced from publicly available Spotify statistics. The analysis wa
 **Power BI**: Data visualization and trend analysis.
 
 **Excel:** Data cleaning, preprocessing, and initial analysis.
+
+**Python:** Data Analysis and reporting
 
 Key metrics analyzed include:
 
