@@ -38,7 +38,7 @@ This project demonstrates how data analytics can reveal insights into musical tr
 📌 Future Work: Extend this analysis using machine learning to predict song popularity based on attributes.
 
 Acknowledgments
-Author
+[Author](mailto:daudaagbonga@gmail.com) - Dauda Agbonoga
 
 Spotify API for data
 
